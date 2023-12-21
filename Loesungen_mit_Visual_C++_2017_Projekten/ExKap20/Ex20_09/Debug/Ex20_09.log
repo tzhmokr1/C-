@@ -1,0 +1,5 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ex20_09.cpp
+c:\users\krist\mycloud\documents\_c++\c++_loesungen_das übungsbuch\loesungen_mit_visual_c++_2017_projekten\exkap20\ex20_09\ex20_09.cpp(44): error C2065: 'n': undeclared identifier
+c:\users\krist\mycloud\documents\_c++\c++_loesungen_das übungsbuch\loesungen_mit_visual_c++_2017_projekten\exkap20\ex20_09\ex20_09.cpp(45): error C2065: 'n': undeclared identifier
+c:\users\krist\mycloud\documents\_c++\c++_loesungen_das übungsbuch\loesungen_mit_visual_c++_2017_projekten\exkap20\ex20_09\ex20_09.cpp(47): error C2065: 'n': undeclared identifier

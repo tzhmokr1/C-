@@ -1,0 +1,8 @@
+﻿  field.cpp
+c:\users\krist\mycloud\documents\__repositories\c++\ascii-tetris\ascii-tetris\field.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\mycloud\documents\__repositories\c++\ascii-tetris\ascii-tetris\field.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\mycloud\documents\__repositories\c++\ascii-tetris\ascii-tetris\field.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\mycloud\documents\__repositories\c++\ascii-tetris\ascii-tetris\field.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\mycloud\documents\__repositories\c++\ascii-tetris\ascii-tetris\field.cpp(198): warning C4018: '<': signed/unsigned mismatch
+c:\users\krist\mycloud\documents\__repositories\c++\ascii-tetris\ascii-tetris\field.cpp(209): warning C4018: '<': signed/unsigned mismatch
+  Ascii-Tetris.vcxproj -> C:\Users\krist\myCloud\Documents\__repositories\c++\Ascii-Tetris\Debug\Ascii-Tetris.exe

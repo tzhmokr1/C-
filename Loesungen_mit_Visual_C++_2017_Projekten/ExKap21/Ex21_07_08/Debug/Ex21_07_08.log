@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (Ex21_07_08(conflict DESKTOP-FPQN0J5 12-10-2018 14-16-14).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  intArr.cpp
+  ex21_08.cpp
+  Generating Code...
+  Ex21_07_08.vcxproj -> C:\Users\krist\myCloud\Documents\_C++\C++_Loesungen_Das Übungsbuch\Loesungen_mit_Visual_C++_2017_Projekten\ExKap21\Ex21_07_08\.\Debug\Ex21_07_08.exe

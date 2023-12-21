@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex13_03_04_05", "Ex13_03_04_05\Ex13_03_04_05.vcxproj", "{B46034F9-7344-435B-BB35-D3CC61C00D69}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex13_06_07_08", "Ex13_06_07_08\Ex13_06_07_08.vcxproj", "{EC819D23-6CF2-481F-A922-71B9B37DF5B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex13_09", "Ex13_09\Ex13_09.vcxproj", "{4D37243F-D948-4D65-9D6D-C5948BAD5725}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex13_10", "Ex13_10\Ex13_10.vcxproj", "{8F41B936-9329-41AC-A46F-BB91ED7B3DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46034F9-7344-435B-BB35-D3CC61C00D69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B46034F9-7344-435B-BB35-D3CC61C00D69}.Debug|Win32.Build.0 = Debug|Win32
+		{B46034F9-7344-435B-BB35-D3CC61C00D69}.Release|Win32.ActiveCfg = Release|Win32
+		{B46034F9-7344-435B-BB35-D3CC61C00D69}.Release|Win32.Build.0 = Release|Win32
+		{EC819D23-6CF2-481F-A922-71B9B37DF5B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC819D23-6CF2-481F-A922-71B9B37DF5B1}.Debug|Win32.Build.0 = Debug|Win32
+		{EC819D23-6CF2-481F-A922-71B9B37DF5B1}.Release|Win32.ActiveCfg = Release|Win32
+		{EC819D23-6CF2-481F-A922-71B9B37DF5B1}.Release|Win32.Build.0 = Release|Win32
+		{4D37243F-D948-4D65-9D6D-C5948BAD5725}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D37243F-D948-4D65-9D6D-C5948BAD5725}.Debug|Win32.Build.0 = Debug|Win32
+		{4D37243F-D948-4D65-9D6D-C5948BAD5725}.Release|Win32.ActiveCfg = Release|Win32
+		{4D37243F-D948-4D65-9D6D-C5948BAD5725}.Release|Win32.Build.0 = Release|Win32
+		{8F41B936-9329-41AC-A46F-BB91ED7B3DF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F41B936-9329-41AC-A46F-BB91ED7B3DF2}.Debug|Win32.Build.0 = Debug|Win32
+		{8F41B936-9329-41AC-A46F-BB91ED7B3DF2}.Release|Win32.ActiveCfg = Release|Win32
+		{8F41B936-9329-41AC-A46F-BB91ED7B3DF2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

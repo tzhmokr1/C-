@@ -1,0 +1,5 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ex14_10.cpp
+  color.cpp
+  Generating Code...
+  Ex14_10.vcxproj -> C:\Users\krist\myCloud\Documents\__repositories\c++\Loesungen_mit_Visual_C++_2017_Projekten\ExKap14\Ex14_10\.\Debug\Ex14_10.exe
